@@ -1,9 +1,3 @@
-###
-# Copyright 2013-2023 AFI, Inc. All Rights Reserved.
-###
-#!/usr/bin/env python
-# coding: utf-8
-
 import os
 from datetime import timedelta
 
