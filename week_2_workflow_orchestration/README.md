@@ -1,7 +1,5 @@
 ## Week 2: Workflow Orchestration
 
-test
-
 > If you're looking for Airflow videos from the 2022 edition,
 > check the [2022 cohort folder](../cohorts/2022/week_2_data_ingestion/).
 
